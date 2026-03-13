@@ -1,2 +1,1 @@
-# fuelonline-seo-ai-workflow
-Technical documentation for FuelOnline's AI-First SEO and Generative Engine Optimization (GEO) workflow in Atlanta
+This is formatted in "Markdown" to make it look like a real technical site:
